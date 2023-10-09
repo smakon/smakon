@@ -1,3 +1,5 @@
+![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif)
+
 <h1 align="center">Hi there, I'm Sam 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
