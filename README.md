@@ -13,8 +13,8 @@
 
 ![Static Badge](https://img.shields.io/badge/Arduino-Arduino?style=for-the-badge&logo=Arduino&color=blue)
 
-<h1 align=left>GitHub Profile Trophy</h1>
-<br>
+<h1>GitHub Profile Trophy</h1>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
