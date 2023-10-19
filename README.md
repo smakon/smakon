@@ -15,8 +15,8 @@
 
 <h1>GitHub Profile Trophy</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=smakon)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=smakon)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smakon)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smakon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakon)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakon)
