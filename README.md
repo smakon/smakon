@@ -14,6 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Arduino-Arduino?style=for-the-badge&logo=Arduino&color=blue)
 
 <h1>GitHub Profile Trophy</h1>
+
 ![codewars](https://www.codewars.com/users/smakon/badges/large)(https://www.codewars.com/users/smakon)   
 ![trophy](https://github-profile-trophy.vercel.app/?username=smakon)
 
