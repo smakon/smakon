@@ -15,7 +15,7 @@
 
 <h1>GitHub Profile Trophy</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codewars](https://www.codewars.com/users/smakon/badges/large)](https://www.codewars.com/users/smakon)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codewars](https://www.codewars.com/users/smakon/badges/large)](https://www.codewars.com/users/smakon)   
 ![trophy](https://github-profile-trophy.vercel.app/?username=smakon)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smakon)
