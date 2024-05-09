@@ -18,6 +18,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codewars](https://www.codewars.com/users/smakon/badges/large)](https://www.codewars.com/users/smakon)   
 ![trophy](https://github-profile-trophy.vercel.app/?username=smakon)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=smakon&theme=highcontrast&border_radius=70)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=smakon&theme=highcontrast&border_radius=50)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakon)
