@@ -17,6 +17,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![codewars](https://www.codewars.com/users/smakon/badges/large)](https://www.codewars.com/users/smakon)   
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=smakon&theme=dark&border_radius=50" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=smakon)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smakon)](https://github.com/anuraghazra/github-readme-stats)
